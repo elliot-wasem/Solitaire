@@ -852,18 +852,19 @@ void draw_help_menu() {
     mvprintw( 8, 2, "║ d:      right                                    ║");
     mvprintw( 9, 2, "║ f:      flip from deck to discard                ║");
     mvprintw(10, 2, "║ space:  select                                   ║");
-    mvprintw(11, 2, "║ q:      quit game                                ║");
-    mvprintw(12, 2, "║                                                  ║");
-    mvprintw(13, 2, "║ Indicators:                                      ║");
-    mvprintw(14, 2, "║ ──────────────────────────────────────────────── ║");
-    mvprintw(15, 2, "║ yellow border:      selected                     ║");
-    mvprintw(16, 2, "║ green border:       current position             ║");
-    mvprintw(17, 2, "║ x on card:          empty spot                   ║");
-    mvprintw(18, 2, "║ 4 symbols on card:  card present but not visible ║");
-    mvprintw(19, 2, "║ ──────────────────────────────────────────────── ║");
-    mvprintw(20, 2, "║                                                  ║");
-    mvprintw(21, 2, "║ Author: Elliot Wasem        Github: elliot-wasem ║");
-    mvprintw(22, 2, "╚══════════════════════════════════════════════════╝");
+    mvprintw(11, 2, "║ c:      cancel selection                         ║");
+    mvprintw(12, 2, "║ q:      quit game                                ║");
+    mvprintw(13, 2, "║                                                  ║");
+    mvprintw(14, 2, "║ Indicators:                                      ║");
+    mvprintw(15, 2, "║ ──────────────────────────────────────────────── ║");
+    mvprintw(16, 2, "║ yellow border:      selected                     ║");
+    mvprintw(17, 2, "║ green border:       current position             ║");
+    mvprintw(18, 2, "║ x on card:          empty spot                   ║");
+    mvprintw(19, 2, "║ 4 symbols on card:  card present but not visible ║");
+    mvprintw(20, 2, "║ ──────────────────────────────────────────────── ║");
+    mvprintw(21, 2, "║                                                  ║");
+    mvprintw(22, 2, "║ Author: Elliot Wasem        Github: elliot-wasem ║");
+    mvprintw(23, 2, "╚══════════════════════════════════════════════════╝");
 
 
 
